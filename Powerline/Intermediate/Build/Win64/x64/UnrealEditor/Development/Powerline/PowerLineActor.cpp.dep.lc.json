@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\githubportfolio\\energyline\\powerline\\source\\powerline\\powerlineactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\powerline\\definitions.powerline.h",
+            "d:\\githubportfolio\\energyline\\powerline\\source\\powerline\\powerlineactor.h",
+            "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\unrealeditor\\inc\\powerline\\uht\\powerlineactor.generated.h",
+            "m:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "m:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h",
+            "m:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\splinemeshcomponent.h",
+            "m:\\ue_5.5\\engine\\shaders\\shared\\splinemeshshaderparams.h",
+            "m:\\ue_5.5\\engine\\shaders\\shared\\hlsltypealiases.h",
+            "m:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinemeshcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

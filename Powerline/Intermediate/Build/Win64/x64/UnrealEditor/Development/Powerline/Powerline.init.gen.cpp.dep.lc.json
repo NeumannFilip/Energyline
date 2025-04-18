@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\unrealeditor\\inc\\powerline\\uht\\powerline.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\powerline\\definitions.powerline.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

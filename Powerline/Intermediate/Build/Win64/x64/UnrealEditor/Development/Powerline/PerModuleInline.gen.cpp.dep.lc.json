@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\powerline\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\githubportfolio\\energyline\\powerline\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\powerline\\definitions.powerline.h",
+            "m:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

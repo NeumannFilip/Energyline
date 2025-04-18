@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GithubPortfolio\\Energyline\\Powerline\\Source\\Powerline\\Powerline.Build.cs",
+		"D:\\GithubPortfolio\\Energyline\\Powerline\\Source\\Powerline.Target.cs",
+		"D:\\GithubPortfolio\\Energyline\\Powerline\\Source\\PowerlineEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

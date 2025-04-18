@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Powerline",
+			"Path": "..\\Source\\Powerline.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PowerlineEditor",
+			"Path": "..\\Source\\PowerlineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
